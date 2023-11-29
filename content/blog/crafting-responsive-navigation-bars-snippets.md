@@ -7,8 +7,7 @@ description: >-
   devices. Dive into our curated showcase for inspiration and implementation,
   simplifying your journey toward creating user-friendly and adaptable
   navigation systems.
-date: 2023-11-29T00:00:00.000Z
-heroimage: /public/uploads/xhqflo6.jpg
+date: 2023-11-29
 ---
 ### 1. Fully-Responsive-Navbar (Source Code)
 
